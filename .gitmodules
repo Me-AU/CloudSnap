@@ -6,3 +6,7 @@
 	path = submodules/FrontendMicroServ
 	url = https://github.com/Mr-H-Mehdi/FrontendMicroServ
 	branch = main
+[submodule "submodules/front-back-service"]
+	path = submodules/front-back-service
+	url = https://github.com/Shumailseecs21/front-back-service
+	branch = main
