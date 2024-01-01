@@ -1,0 +1,4 @@
+[submodule "submodules/usage-monitoring-microservice"]
+	path = submodules/usage-monitoring-microservice
+	url = https://github.com/Me-AU/usage-monitoring-microservice
+	branch = main
