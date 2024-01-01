@@ -10,3 +10,7 @@
 	path = submodules/front-back-service
 	url = https://github.com/Shumailseecs21/front-back-service
 	branch = main
+[submodule "submodules/StorageManagementService"]
+	path = submodules/StorageManagementService
+	url = https://github.com/Nida-Naveed/StorageManagementService
+	branch = master
