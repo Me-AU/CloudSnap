@@ -2,3 +2,7 @@
 	path = submodules/usage-monitoring-microservice
 	url = https://github.com/Me-AU/usage-monitoring-microservice
 	branch = main
+[submodule "submodules/FrontendMicroServ"]
+	path = submodules/FrontendMicroServ
+	url = https://github.com/Mr-H-Mehdi/FrontendMicroServ
+	branch = main
