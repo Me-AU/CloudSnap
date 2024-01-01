@@ -14,3 +14,7 @@
 	path = submodules/StorageManagementService
 	url = https://github.com/Nida-Naveed/StorageManagementService
 	branch = master
+[submodule "submodules/UserAccMgmtServ"]
+	path = submodules/UserAccMgmtServ
+	url = https://github.com/NavairaRehman/UserAccMgmtServ
+	branch = master
